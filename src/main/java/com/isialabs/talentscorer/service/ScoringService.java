@@ -157,6 +157,16 @@ public class ScoringService {
                 .collect(Collectors.toList());
     }
 
+    public List<ScoreResultDTO> scoreCandidates(List<Candidate> candidates) {
+        if (candidates == null) {
+            return new ArrayList<>();
+        }
+        return candidates.stream()
+                .map(this::scoreCandidate)
+                .sorted(Comparator.comparingDouble(ScoreResultDTO::getScore).reversed())
+                .collect(Collectors.toList());
+    }
+
     private ScoreResultDTO scoreCandidate(Candidate candidate) {
         double totalScore = 0;
         String role = candidate.getRole();
