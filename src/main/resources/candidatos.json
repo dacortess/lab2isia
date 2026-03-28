@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Juan Carlos Rodríguez",
+    "role": "Arquitecto de Software",
+    "profession": "Ingeniero de Sistemas",
+    "stack": ["Microservicios", "AWS", "Kubernetes", "Docker", "Spring Boot"],
+    "skills": ["Arquitectura de software", "Diseño de sistemas distribuidos", "Patrones de diseño", "Liderazgo técnico", "Toma de decisiones"]
+  },
+  {
+    "name": "María Alejandra Gómez",
+    "role": "Arquitecto de Software",
+    "profession": "Ingeniera de Software",
+    "stack": ["Microservicios", "AWS", "Kubernetes", "Docker", "Spring Boot"],
+    "skills": ["Arquitectura de software", "Diseño de sistemas distribuidos", "Patrones de diseño", "Liderazgo técnico", "Toma de decisiones"]
+  },
+  {
+    "name": "Carlos Andrés Martínez",
+    "role": "Arquitecto de Software",
+    "profession": "Ingeniero de Sistemas",
+    "stack": ["Microservicios", "AWS", "Kubernetes", "Docker", "Spring Boot"],
+    "skills": ["Arquitectura de software", "Diseño de sistemas distribuidos", "Patrones de diseño", "Liderazgo técnico", "Toma de decisiones"]
+  },
+  {
+    "name": "Ana Lucía Hernández",
+    "role": "Arquitecto de Software",
+    "profession": "Magíster en Ingeniería de Software",
+    "stack": ["Microservicios", "AWS", "Kubernetes", "Docker", "Spring Boot"],
+    "skills": ["Arquitectura de software", "Diseño de sistemas distribuidos", "Patrones de diseño", "Liderazgo técnico", "Toma de decisiones"]
+  },
+  {
+    "name": "Luis Fernando López",
+    "role": "Desarrollador Senior",
+    "profession": "Ingeniero de Sistemas",
+    "stack": ["Java", "Spring Boot", "Node.js", "SQL", "Git"],
+    "skills": ["Programación avanzada", "Clean Code", "Patrones de diseño", "Resolución de problemas", "Testing"]
+  },
+  {
+    "name": "Diana Carolina Castro",
+    "role": "Desarrollador Senior",
+    "profession": "Ingeniera de Software",
+    "stack": ["Java", "Spring Boot", "Node.js", "SQL", "Git"],
+    "skills": ["Programación avanzada", "Clean Code", "Patrones de diseño", "Resolución de problemas", "Testing"]
+  },
+  {
+    "name": "Jorge Iván Ramírez",
+    "role": "Desarrollador Senior",
+    "profession": "Ingeniero de Sistemas",
+    "stack": ["Java", "Spring Boot", "Node.js", "SQL", "Git"],
+    "skills": ["Programación avanzada", "Clean Code", "Patrones de diseño", "Resolución de problemas", "Testing"]
+  },
+  {
+    "name": "Paola Andrea Torres",
+    "role": "Desarrollador Senior",
+    "profession": "Ingeniera de Sistemas",
+    "stack": ["Java", "Spring Boot", "Node.js", "SQL", "Git"],
+    "skills": ["Programación avanzada", "Clean Code", "Patrones de diseño", "Resolución de problemas", "Testing"]
+  },
+  {
+    "name": "Ricardo Alberto Morales",
+    "role": "Desarrollador Senior",
+    "profession": "Ingeniero de Software",
+    "stack": ["Java", "Spring Boot", "Node.js", "SQL", "Git"],
+    "skills": ["Programación avanzada", "Clean Code", "Patrones de diseño", "Resolución de problemas", "Testing"]
+  },
+  {
+    "name": "Santiago José Vargas",
+    "role": "Desarrollador Junior",
+    "profession": "Ingeniero de Sistemas",
+    "stack": ["JavaScript", "HTML/CSS", "React", "Git", "APIs REST"],
+    "skills": ["Lógica de programación", "Programación básica", "Consumo de APIs", "Trabajo en equipo", "Adaptabilidad"]
+  },
+  {
+    "name": "Valentina María Ortiz",
+    "role": "Desarrollador Junior",
+    "profession": "Técnica en Programación",
+    "stack": ["JavaScript", "HTML/CSS", "React", "Git", "APIs REST"],
+    "skills": ["Lógica de programación", "Programación básica", "Consumo de APIs", "Trabajo en equipo", "Adaptabilidad"]
+  },
+  {
+    "name": "Mateo David Silva",
+    "role": "Desarrollador Junior",
+    "profession": "Ingeniero de Software",
+    "stack": ["JavaScript", "HTML/CSS", "React", "Git", "APIs REST"],
+    "skills": ["Lógica de programación", "Programación básica", "Consumo de APIs", "Trabajo en equipo", "Adaptabilidad"]
+  },
+  {
+    "name": "Sofía Elena Rojas",
+    "role": "Desarrollador Junior",
+    "profession": "Ingeniera de Sistemas",
+    "stack": ["JavaScript", "HTML/CSS", "React", "Git", "APIs REST"],
+    "skills": ["Lógica de programación", "Programación básica", "Consumo de APIs", "Trabajo en equipo", "Adaptabilidad"]
+  },
+  {
+    "name": "Nicolás Felipe Jiménez",
+    "role": "Desarrollador Junior",
+    "profession": "Tecnólogo en Sistemas",
+    "stack": ["JavaScript", "HTML/CSS", "React", "Git", "APIs REST"],
+    "skills": ["Lógica de programación", "Programación básica", "Consumo de APIs", "Trabajo en equipo", "Adaptabilidad"]
+  },
+  {
+    "name": "Camila Isabel Díaz",
+    "role": "Desarrollador Junior",
+    "profession": "Ingeniera de Software",
+    "stack": ["JavaScript", "HTML/CSS", "React", "Git", "APIs REST"],
+    "skills": ["Lógica de programación", "Programación básica", "Consumo de APIs", "Trabajo en equipo", "Adaptabilidad"]
+  },
+  {
+    "name": "Gabriel Eduardo Rivera",
+    "role": "Analista QA",
+    "profession": "Ingeniero de Sistemas",
+    "stack": ["Selenium", "JUnit", "Postman", "APIs REST", "SQL"],
+    "skills": ["Testing manual", "Testing automatizado", "Atención al detalle", "Pensamiento crítico", "Documentación de pruebas"]
+  },
+  {
+    "name": "Isabella Cristina Suárez",
+    "role": "Analista QA",
+    "profession": "Ingeniera de Software",
+    "stack": ["Selenium", "JUnit", "Postman", "APIs REST", "SQL"],
+    "skills": ["Testing manual", "Testing automatizado", "Atención al detalle", "Pensamiento crítico", "Documentación de pruebas"]
+  },
+  {
+    "name": "Andrés Mauricio Peña",
+    "role": "Analista QA",
+    "profession": "Ingeniero de Calidad de Software",
+    "stack": ["Selenium", "JUnit", "Postman", "APIs REST", "SQL"],
+    "skills": ["Testing manual", "Testing automatizado", "Atención al detalle", "Pensamiento crítico", "Documentación de pruebas"]
+  },
+  {
+    "name": "Manuela Fernanda Rincón",
+    "role": "Analista QA",
+    "profession": "Ingeniera de Sistemas",
+    "stack": ["Selenium", "JUnit", "Postman", "APIs REST", "SQL"],
+    "skills": ["Testing manual", "Testing automatizado", "Atención al detalle", "Pensamiento crítico", "Documentación de pruebas"]
+  },
+  {
+    "name": "Sebastián Camilo Parra",
+    "role": "Analista QA",
+    "profession": "Ingeniero de Software",
+    "stack": ["Selenium", "JUnit", "Postman", "APIs REST", "SQL"],
+    "skills": ["Testing manual", "Testing automatizado", "Atención al detalle", "Pensamiento crítico", "Documentación de pruebas"]
+  }
+]
